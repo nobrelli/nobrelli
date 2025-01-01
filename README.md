@@ -1,58 +1,49 @@
-# Hi! I'm Rye!👋
+# Hi, I'm Rye!👋
 
-### An indie software developer and tech enthusiast
+### Casual software developer. Tech enthusiast. Music producer. Tinkerer. Problem solver.
 
 - 🔭 I'm currently working on [Construlink](https://github.com/nobrelli/construlink)
 - 💻 I do web, mobile, and desktop apps
-- 🎵 I make music in my spare time
 - 🐶 I love dogs
 
 ## Tech Used
 
 ### Languages
 <div style="float: left;">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ### Frameworks, libraries, envs
 <div style="float: left;">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50" />
-  <img src="https://github.com/expo/expo/blob/b3aeeeac3fc5d19bd716b6fe94d16984383c2c09/.github/resources/banner.png" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/svelte-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/solidjs.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vitejs.svg" width="50" />
-  <img src="https://www.electronjs.org/assets/img/logo.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg" width="50" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
 </div>
 
 ### Databases
 <div style="float: left;">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
 </div>
 
 ### Tools
 <div style="float: left;">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/firebase-light.svg" width="50" />
-  <img src="https://appwrite.io/assets/logomark/logo.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/nginx-dark.svg" width="50" />
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 </div>
 
 ## Stats
