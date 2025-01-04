@@ -2,7 +2,6 @@
 
 ### Casual software developer. Tech enthusiast. Music producer. Tinkerer. Problem solver.
 
-- 🔭 I'm currently working on [Construlink](https://github.com/nobrelli/construlink)
 - 💻 I do web, mobile, and desktop apps
 - 🐶 I love dogs
 
